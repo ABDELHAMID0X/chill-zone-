@@ -1,0 +1,37 @@
+.bg{
+  background-image: linear-gradient(to bottom, #000000, #0e0006, #150011, #16001b, #110325);
+}
+.fnttext{
+  /* font-family: 'Clicker Scriptt' , cursive; */
+  /* font-family: "Gill Sans Extrabold", sans-serif; */
+  font-family: "Goudy Bookletter 1911", sans-serif;
+}
+
+.fnt2{
+       font-family:'Rubik', sans-serif;
+}
+
+.bgBtn{
+  background-image: radial-gradient(circle, #570b5e, #5d086b, #610679, #640588, #660797);
+}
+.neonBorder {
+  animation: pulsate 1.5s infinite alternate;
+  border: 0.2rem solid #fff;
+  border-radius: 2rem;
+  padding: 0.4em;
+
+  box-shadow:0 0 .2rem #fff,
+            0 0 .2rem #fff,
+            0 0 2rem   #189916
+,
+            0 0 0.8rem   #189916
+,
+            0 0 2.8rem   #189916
+,
+            inset 0 0 1.2rem   #189916
+;
+}
+
+.texShadow{
+  text-shadow:  #000000  1px 0 10px;
+}
